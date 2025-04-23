@@ -41,7 +41,7 @@ conda activate IDPFunNet
     
 ## Run the IDPFunNet
 
-**1、Predict disordered multiple binding functions**
+**1 Predict disordered multiple binding functions**
 ```
 python predict.py -t binding -i example.fasta -d gpu0
 ```
@@ -56,7 +56,7 @@ File Contents:
               Line 6: Predicted results for disordered ion-binding functions
               Line 7: Predicted results for disordered small molecule-binding functions
 ```
-**2、Predict disordered flexible linker functions**
+**2 Predict disordered flexible linker functions**
 ```
 python predict.py -t linker -i example.fasta -d gpu0
 ```
@@ -67,7 +67,7 @@ File Contents:
               Line 2: Protein sequence (1-letter amino acid encoding)
               Line 3: Predicted results for disordered flexible linker functions
 ```
-**3、Predict disordered multiple binding and flexible linker functions**
+**3 Predict disordered multiple binding and flexible linker functions**
 ```
 python predict.py -t all -i example.fasta -d gpu0
 ```
@@ -84,7 +84,7 @@ File Contents:
               Line 8: Predicted results for disordered flexible linker functions
 ```
 
-**4、Explanation of some parameters**
+**4 Explanation of some parameters**
 
 (1) -t specifies the prediction type, with three options: binding, linker, and all, representing disordered multiple binding functions, disordered flexible linker functions, or both, respectively.
 
