@@ -17,7 +17,7 @@ The anaconda can be downloaded from https://www.anaconda.com/
 
 Now, you need to clone this Github repository with
 ```
-git clone https://github.com/liangjh-hui/IDPFunNet.git
+git clone [https://github.com/liangjh-hui/IDPFunNet.git](https://github.com/IDRIDP/IDPFunNet.git)
 ```
 
 **Step 3: Download the ProtT5 network weights**
@@ -97,4 +97,4 @@ File Contents:
 
 ## Citation
 <span id="citation"></span>
-Liang et al, A novel deep learning framework for systematic prediction of intrinsically disordered protein functions using protein language model, submitted, 2025.
+Liang et al, A Hybrid Deep Learning Framework Integrating Protein Language Models and Dual-Pathway Architecture for Predicting Intrinsically Disordered Protein Functions, submitted, 2025.
