@@ -17,7 +17,7 @@ The anaconda can be downloaded from https://www.anaconda.com/
 
 Now, you need to clone this Github repository with
 ```
-git clone [https://github.com/liangjh-hui/IDPFunNet.git](https://github.com/IDRIDP/IDPFunNet.git)
+git clone https://github.com/IDRIDP/IDPFunNet.git
 ```
 
 **Step 3: Download the ProtT5 network weights**
