@@ -22,9 +22,9 @@ git clone https://github.com/IDRIDP/IDPFunNet.git
 
 **Step 3: Download the ProtT5 network weights**
 
-Download the ProtT5 model weights from the following link and copy the file to the "/IDPFunNet/utils/prot_t5_xl_uniref50/" directory:
+Download the ProtT5 model weights from the following link and copy the file to the "/IDPFunNet/utils/prot_t5_xl_uniref50/" directory.
 ```
-https://huggingface.co/Rostlab/prot_t5_xl_uniref50/resolve/main/pytorch_model.bin?download=true
+https://huggingface.co/Rostlab/prot_t5_xl_uniref50/resolve/main/pytorch_model.bin
 ```
 
 **Step 4: Navigate to the installation path**
